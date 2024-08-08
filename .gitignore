@@ -1,0 +1,7 @@
+build/bin
+node_modules
+frontend/build
+data.db
+frontend/.svelte-kit
+frontend/node_modules
+frontend/pnpm-lock.yaml

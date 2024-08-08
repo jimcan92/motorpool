@@ -1,0 +1,14 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "gags",
+  "outputfilename": "gags",
+  "frontend:install": "pnpm i",
+  "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
+  "frontend:dev:serverUrl": "http://localhost:5173",
+  "author": {
+    "name": "jimcan92",
+    "email": "jimcan051592@gmail.com"
+  },
+  "wailsjsdir": "./frontend/src/lib"
+}
